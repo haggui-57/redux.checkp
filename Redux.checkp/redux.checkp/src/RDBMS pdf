@@ -1,0 +1,34 @@
+Reltional Dtabase Management
+Système (RDBMS) 
+Using RDBMS ALLOWS US to :
+         .  No Data  redundancy 
+         . Data Consistency and Integrity
+         . Easy access to data 
+         . More flexibility than files
+         . Recovry process 
+
+Example of RDBMS and their functionalities: 
+MySQL 
+      . Renational Database System
+     . Client/Server Architecture 
+     . SQL compatibility 
+     . SubSELECTS s
+     . Speed 
+     . ODBC 
+
+PostgreSQL 
+
+     . User- defined types
+     . Table inheritance 
+     . Sophisticated loking mechanism
+     . Foreigen key referential integrity 
+     . Views,rules,(savepoints) sing
+     . Multi-version concurrency (MVCC)
+
+SQL SERVER 
+
+     . Intelligent Query Processing 
+     . Accelerated Datadase Recovery 
+     . Always Encrypted with secureenclavers
+     . Memory-optimized
+     . Query Store custom capture polices
